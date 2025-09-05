@@ -1,0 +1,18 @@
+body {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  margin: 0;
+  background-color: antiquewhite;
+  flex-direction: column;
+}
+.content {
+  border: 1px solid black;
+  padding: 2rem;
+  background-color: cornsilk;
+  border-radius: 1rem;
+}
+.content h1 {
+  text-align: center;
+}
